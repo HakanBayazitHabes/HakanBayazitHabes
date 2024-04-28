@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=HakanBayazitHabes&color=blueviolet&style=flat-square)
-[![](https://visitcount.itsvg.in/api?id=SeydaBalci&label=Viewers&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HakanBayazitHabes&label=Viewers&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **HakanBayazitHabes/HakanBayazitHabes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
