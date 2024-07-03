@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 [![](https://visitcount.itsvg.in/api?id=HakanBayazitHabes&label=Viewers&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+- 📫 How to reach me: hakanbayazithabes@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakanBayazitHabes&theme=dracula&show_icons=true)
 <!--
 ![](https://komarev.com/ghpvc/?username=HakanBayazitHabes&color=blueviolet&style=flat-square)
 
