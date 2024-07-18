@@ -6,8 +6,8 @@
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hakan-bayaz%C4%B1thabe%C5%9F/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakanbayazithabes" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/17069669/hakan-bayaz%c4%b1t?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17069669" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/hakanbayazithabes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakanbayazithabes" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/17069669/hakan-bayazit?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17069669" height="30" width="30" /></a>
 <a href="https://codersclub.co/tr/dev/HakanBayazitHabes" target="blank"><img align="center" src="https://codersclub.co/codersclub_extwhite.png" alt="HakanBayazitHabes" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/HakanBayazitHabes/" target="blank"><img align="center" src="https://github.com/HakanBayazitHabes/HakanBayazitHabes/blob/master/leetcode.jpg" alt="HakanBayazitHabes" height="30" width="30" /></a>
 </p>
