@@ -8,11 +8,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hakanbayazithabes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakanbayazithabes" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/17069669/hakan-bayazit?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17069669" height="30" width="30" /></a>
-<a href="https://codersclub.co/tr/dev/HakanBayazitHabes" target="blank"><img align="center" src="https://codersclub.co/codersclub_extwhite.png" alt="HakanBayazitHabes" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/HakanBayazitHabes/" target="blank"><img align="center" src="https://github.com/HakanBayazitHabes/HakanBayazitHabes/blob/master/leetcode.jpg" alt="HakanBayazitHabes" height="30" width="30" /></a>
 </p>
 
 <!--
+<a href="https://codersclub.co/tr/dev/HakanBayazitHabes" target="blank"><img align="center" src="https://codersclub.co/codersclub_extwhite.png" alt="HakanBayazitHabes" height="30" width="30" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HakanBayazitHabes&theme=dracula&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=HakanBayazitHabes&color=blueviolet&style=flat-square)
