@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://visitcount.itsvg.in/api?id=HakanBayazitHabes&label=Viewers&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+<div> <img src="https://komarev.com/ghpvc/?username=HakanBayazitHabes&label=Profile%20views&color=0f172a&style=flat" alt="HakanBayazitHabes" /> </div>
 
 - 📫 How to reach me: hakanbayazithabes@gmail.com
 
